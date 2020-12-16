@@ -5,7 +5,7 @@
     <meta name="author" content="">
     <meta name="description" content="">
     <meta name="viewport" content="width-device-width, initial-scale-1">
-</html>
+
 <body>
     <p>Formulário para Inscrição de Competidores</p>
 
@@ -15,3 +15,4 @@
         <p><input type="submit" value="Enviar"></p>
     </form>
 </body>
+</html>
